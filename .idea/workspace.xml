@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5a209ef-4e76-47d1-95ff-33e6e1524dce" name="Default Changelist" comment="" />
+    <list default="true" id="04d3b0a5-2129-4e3a-8b8e-a784cbfa72cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +31,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -100,16 +97,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="74" key="#Project_Structure" timestamp="1607325750322">
       <screen x="0" y="0" width="1536" height="824" />
@@ -135,6 +122,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="580" y="269" key="git4idea.ui.GitTagDialog/0.0.1536.824@0.0.1536.824" timestamp="1607328676120" />
+    <state x="560" y="215" key="git4idea.merge.GitMergeDialog" timestamp="1607328950261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="215" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1607328950261" />
     <state x="178" y="29" key="new project wizard" timestamp="1607326715772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
